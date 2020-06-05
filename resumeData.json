@@ -2,10 +2,9 @@
   "main": {
     "name":"Pyae Naing",
     "occupation":"N/A",
-    "description":"I have a B.S. degree in Computer Science and Minor in Mathmatics with 3.5 G.P.A. I am currently looking for job in software development.",
+    "description":"I have a B.S. degree in Computer Science and Minor in Mathmatics with 3.5 G.P.A. I am currently looking for job in software development",
     "image":"profilepic.jpg",
     "bio":"Hey, my name is Pyae Naing. I have recently graduated from San Francisco State University in May 2020, with B.S in Computer Science and Minor in Mathmatics. I design, and create database and functions that are fast and high performance for the backend. I have done projects in in Java, C++, Javascript, MySQL, MongoDB and Node.JS. I am dedicated worker, problem solver, team player and would love to prove it to you.",
-    "help":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "naingpyae98@gmail.com",
     "phone": "415-562-6921",
