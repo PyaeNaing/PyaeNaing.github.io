@@ -2,9 +2,10 @@
   "main": {
     "name":"Pyae Naing",
     "occupation":"N/A",
-    "description":"I have a B.S. degree in Computer Science and Minor in Mathmatics with 3.5 G.P.A. I am currently looking for job in software development",
+    "description":"I have a B.S. degree in Computer Science and Minor in Mathmatics with 3.5 G.P.A. I am currently looking for job in software development.",
     "image":"profilepic.jpg",
     "bio":"Hey, my name is Pyae Naing. I have recently graduated from San Francisco State University in May 2020, with B.S in Computer Science and Minor in Mathmatics. I design, and create database and functions that are fast and high performance for the backend. I have done projects in in Java, C++, Javascript, MySQL, MongoDB and Node.JS. I am dedicated worker, problem solver, team player and would love to prove it to you.",
+    "help":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "naingpyae98@gmail.com",
     "phone": "415-562-6921",
@@ -91,11 +92,19 @@
   "portfolio":{
     "projects": [
       {
+        "title":"ToDo list app",
+        "category":"This is simple todo list app. It allows user to create and delete to-do list. Use mongodb and heroku",
+        "image":"list.jpg",
+        "url":"https://pyae-notelist.herokuapp.com/"
+      },
+
+      {
         "title":"Note-App",
-        "category":"Note Taking App that allows authorized users to post and edit notes in sticky notes style.",
+        "category":"Like the todo list but this Note Taking App only allows authorized users to post and edit notes in sticky notes style.",
         "image":"StickyNote.jpg",
         "url":"https://pyaenaing.github.io/noteFE/#/"
       },
+
       {
         "title":"O-Mail",
         "category":"Mock-Up Mail App that is React base and Java backend with MongoDB as database ",
@@ -119,7 +128,7 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "text":"there is where the testimonials would go ..... IF I HAD ONE. Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
         "user":"Kareem Abdul Jabbar"
       },
       {
